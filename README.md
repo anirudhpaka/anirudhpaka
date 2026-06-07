@@ -111,7 +111,7 @@ Beyond engineering, I love sharing knowledge with the community:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhpaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhpaka&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=anirudhpaka&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
@@ -140,9 +140,6 @@ I'm always open to exciting opportunities, collaborations, and tech conversation
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudh-paka/">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anirudhpaka@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
