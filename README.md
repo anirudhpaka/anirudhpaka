@@ -195,7 +195,7 @@ Beyond engineering, I love sharing knowledge with the community:
     </td>
     <td align="center" width="25%">
       <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/584eda68-9f2a-49c3-8ecd-1e294160b673/image.png" width="80" alt="Microsoft Certified: Azure AI Engineer Associate"/>
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="80" alt="Microsoft Certified: Azure AI Engineer Associate"/>
       </a>
       <br/><strong>Microsoft Certified</strong><br/><sub>Azure AI Engineer Associate</sub>
     </td>
