@@ -12,7 +12,7 @@
   </a>
 </h1>
 
-<p><em>"Code is poetry — write it beautifully."</em></p>
+<p><em>"Code is poetry - write it beautifully."</em></p>
 
 </div>
 
@@ -21,9 +21,9 @@
 <!-- SECTION A2: QUICK STATS -->
 <div align="center">
 
-| 💼 Experience | 🚀 Projects Shipped | 🌍 Based In | 📝 Content Creator |
-|:---:|:---:|:---:|:---:|
-| **3+ Years** | **10+ Projects** | **Chicago, IL** | **YouTube • Medium • Instagram** |
+| 💼 Experience | 🚀 Projects Shipped | 🌍 Based In |
+|:---:|:---:|:---:|
+| **3+ Years** | **10+ Projects** | **Chicago, IL** |
 
 </div>
 
@@ -36,11 +36,10 @@ I'm **Anirudh Paka**, a passionate **Software Engineer** with **3+ years of expe
 
 Beyond engineering, I love sharing knowledge with the community:
 
-- 🎥 **Content Creator** — Breaking down complex tech on YouTube, Medium & Instagram
-- 💡 **Problem Solver** — I turn messy problems into elegant, maintainable solutions
-- ☕ **Coffee + Code** — My superpower combo for late-night debugging sessions
-- 🌱 **Always Learning** — Currently exploring AI/ML integrations and cloud-native architectures
-- 🎯 **Goal** — Build products that make a real difference in people's lives
+- 💡 **Problem Solver** - I turn messy problems into elegant, maintainable solutions
+- ☕ **Coffee + Code** - My superpower combo for late-night debugging sessions
+- 🌱 **Always Learning** - Currently exploring AI/ML integrations and cloud-native architectures
+- 🎯 **Goal** - Build products that make a real difference in people's lives
 
 ---
 
@@ -53,13 +52,13 @@ Beyond engineering, I love sharing knowledge with the community:
   <tr>
     <td align="center" width="50%">
       <h3>🤖 Relationship Intelligence AI</h3>
-      <p>An AI-powered platform that helps professionals manage and grow meaningful relationships — built at <a href="https://reknitai.com"><strong>ReknitAI.com</strong></a></p>
+      <p>An AI-powered platform that helps professionals manage and grow meaningful relationships - built at <a href="https://reknitai.com"><strong>ReknitAI.com</strong></a></p>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=statuspage&logoColor=white" />
       <img src="https://img.shields.io/badge/Stack-React%20%7C%20Python%20%7C%20AI-blue?style=for-the-badge" />
     </td>
     <td align="center" width="50%">
       <h3>☁️ Cloud-Native SaaS Boilerplate</h3>
-      <p>A production-ready, open-source SaaS starter kit with <strong>auth, billing, multi-tenancy & CI/CD</strong> — designed for fast product launches</p>
+      <p>A production-ready, open-source SaaS starter kit with <strong>auth, billing, multi-tenancy & CI/CD</strong> - designed for fast product launches</p>
       <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge&logo=statuspage&logoColor=white" />
       <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     </td>
@@ -229,7 +228,7 @@ Beyond engineering, I love sharing knowledge with the community:
       <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
         <img src="https://images.credly.com/size/110x110/images/d220b422-468d-4707-a080-bf91b7adbc09/blob" width="80" alt="SAP Certified S/4HANA Cloud Sales"/>
       </a>
-      <br/><strong>SAP Certified</strong><br/><sub>S/4HANA Cloud — Sales</sub>
+      <br/><strong>SAP Certified</strong><br/><sub>S/4HANA Cloud - Sales</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
@@ -253,15 +252,6 @@ Beyond engineering, I love sharing knowledge with the community:
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudh-paka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@anirudhpaka" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@anirudhpaka" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/anirudhpaka" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/anirudhpaka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -299,7 +289,7 @@ Beyond engineering, I love sharing knowledge with the community:
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
 
-I'm always open to exciting opportunities, collaborations, and tech conversations. Whether it's a groundbreaking project, a startup idea, or just geeking out about the latest in tech — I'm in!
+I'm always open to exciting opportunities, collaborations, and tech conversations. Whether it's a groundbreaking project, a startup idea, or just geeking out about the latest in tech - I'm in!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudh-paka/">
