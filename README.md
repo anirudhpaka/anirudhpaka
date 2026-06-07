@@ -53,15 +53,15 @@ Beyond engineering, I love sharing knowledge with the community:
   <tr>
     <td align="center" width="50%">
       <h3>🤖 Relationship Intelligence AI</h3>
-      <p>An AI-powered platform that helps professionals manage and grow meaningful relationships — built at <strong>Illuminative Strategies</strong></p>
+      <p>An AI-powered platform that helps professionals manage and grow meaningful relationships — built at <a href="https://reknitai.com"><strong>ReknitAI.com</strong></a></p>
       <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=statuspage&logoColor=white" />
       <img src="https://img.shields.io/badge/Stack-React%20%7C%20Python%20%7C%20AI-blue?style=for-the-badge" />
     </td>
     <td align="center" width="50%">
-      <h3>✍️ Tech Content Creation</h3>
-      <p>Producing in-depth technical articles on <strong>Medium</strong>, tutorials on <strong>YouTube</strong>, and bite-sized dev tips on <strong>Instagram</strong></p>
-      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
-      <img src="https://img.shields.io/badge/Topics-Web%20Dev%20%7C%20AI%20%7C%20Cloud-orange?style=for-the-badge" />
+      <h3>☁️ Cloud-Native SaaS Boilerplate</h3>
+      <p>A production-ready, open-source SaaS starter kit with <strong>auth, billing, multi-tenancy & CI/CD</strong> — designed for fast product launches</p>
+      <img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge&logo=statuspage&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     </td>
   </tr>
 </table>
