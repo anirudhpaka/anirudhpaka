@@ -121,15 +121,14 @@ Beyond engineering, I love sharing knowledge with the community:
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- SECTION F: GITHUB ACTIVITY GRAPH -->
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anirudhpaka&theme=darkhub&no-frame=true&column=7&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhpaka&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
-
 ---
 
 <!-- SECTION H: FOOTER -->
