@@ -18,6 +18,17 @@
 
 ---
 
+<!-- SECTION A2: QUICK STATS -->
+<div align="center">
+
+| 💼 Experience | 🚀 Projects Shipped | 🌍 Based In | 📝 Content Creator |
+|:---:|:---:|:---:|:---:|
+| **3+ Years** | **10+ Projects** | **Chicago, IL** | **YouTube • Medium • Instagram** |
+
+</div>
+
+---
+
 <!-- SECTION B: ABOUT ME -->
 ## 🚀 About Me
 
@@ -32,6 +43,28 @@ Beyond engineering, I love sharing knowledge with the community:
 - 🎯 **Goal** — Build products that make a real difference in people's lives
 
 ---
+
+---
+
+<!-- SECTION B2: CURRENTLY BUILDING -->
+## 🔥 What I'm Currently Building
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 Relationship Intelligence AI</h3>
+      <p>An AI-powered platform that helps professionals manage and grow meaningful relationships — built at <strong>Illuminative Strategies</strong></p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=statuspage&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stack-React%20%7C%20Python%20%7C%20AI-blue?style=for-the-badge" />
+    </td>
+    <td align="center" width="50%">
+      <h3>✍️ Tech Content Creation</h3>
+      <p>Producing in-depth technical articles on <strong>Medium</strong>, tutorials on <strong>YouTube</strong>, and bite-sized dev tips on <strong>Instagram</strong></p>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+      <img src="https://img.shields.io/badge/Topics-Web%20Dev%20%7C%20AI%20%7C%20Cloud-orange?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 <!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
@@ -81,6 +114,70 @@ Beyond engineering, I love sharing knowledge with the community:
 </p>
 
 ---
+
+---
+
+<!-- SECTION C2: FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 Relationship Intelligence Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <p>AI-powered relationship management system with smart CRM features, contact intelligence, and automated follow-up suggestions using NLP.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-🚧%20In%20Development-yellow?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Real-Time Analytics Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>Full-stack real-time analytics platform with live data visualization, custom KPI tracking, and WebSocket-powered live updates.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce Microservices API</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <p>Scalable microservices-based REST API for e-commerce with Redis caching, JWT auth, containerized deployment, and 99.9% uptime SLA.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Content Summarizer</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p>LLM-powered tool that summarizes long articles, YouTube transcripts, and documents into concise insights using GPT + FastAPI backend.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect With Me
