@@ -110,12 +110,12 @@ Beyond engineering, I love sharing knowledge with the community:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudhpaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=anirudhpaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=anirudhpaka&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhpaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anirudhpaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
 
 </div>
 
@@ -126,7 +126,7 @@ Beyond engineering, I love sharing knowledge with the community:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anirudhpaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=anirudhpaka&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
