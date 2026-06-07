@@ -178,6 +178,74 @@ Beyond engineering, I love sharing knowledge with the community:
 </table>
 
 </div>
+---
+
+<!-- SECTION C3: CERTIFICATIONS -->
+## 🏅 Certifications & Badges
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="80" alt="AWS Certified AI Practitioner"/>
+      </a>
+      <br/><strong>AWS Certified</strong><br/><sub>AI Practitioner</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/584eda68-9f2a-49c3-8ecd-1e294160b673/image.png" width="80" alt="Microsoft Certified: Azure AI Engineer Associate"/>
+      </a>
+      <br/><strong>Microsoft Certified</strong><br/><sub>Azure AI Engineer Associate</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" width="80" alt="Google Professional Data Engineer"/>
+      </a>
+      <br/><strong>Google Cloud</strong><br/><sub>Professional Data Engineer</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="80" alt="Google Cloud Digital Leader"/>
+      </a>
+      <br/><strong>Google Cloud</strong><br/><sub>Cloud Digital Leader</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" width="80" alt="Professional Scrum Product Owner I"/>
+      </a>
+      <br/><strong>Scrum.org</strong><br/><sub>PSPO I</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="80" alt="SAP Certified Generative AI Developer"/>
+      </a>
+      <br/><strong>SAP Certified</strong><br/><sub>Generative AI Developer</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/d220b422-468d-4707-a080-bf91b7adbc09/blob" width="80" alt="SAP Certified S/4HANA Cloud Sales"/>
+      </a>
+      <br/><strong>SAP Certified</strong><br/><sub>S/4HANA Cloud — Sales</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="80" alt="AWS AI Practitioner Early Adopter"/>
+      </a>
+      <br/><strong>AWS Certified</strong><br/><sub>AI Practitioner Early Adopter</sub>
+    </td>
+  </tr>
+</table>
+
+<a href="https://www.credly.com/users/anirudh-paka/badges" target="_blank">
+  <img src="https://img.shields.io/badge/View%20All%20Badges%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+</div>
+
 
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect With Me
